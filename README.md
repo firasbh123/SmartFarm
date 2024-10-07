@@ -19,7 +19,7 @@
 # Gestion des Clients 
 ![Capture d'écran 2024-10-07 205536](https://github.com/user-attachments/assets/58367709-ff36-4230-a32b-7a196b4c21ec)
 # Mailing
-![Capture d'écran 2024-10-07 205546](https://github.com/user-attachments/assets/4e184923-3dce-4529-95e7-0ec71950e932)
+![Capture d'écran 2024-10-07 205602](https://github.com/user-attachments/assets/83c44e97-91a2-4658-9ff2-4971d2093a40)
 # Gestion des Animaux
 ![Capture d'écran 2024-10-07 205619](https://github.com/user-attachments/assets/ec559324-6d9e-4ed9-a372-76347a9d924e)
 # ChatBot
