@@ -11,7 +11,7 @@
 # QR Code pour chaque produit
 ![Capture d'écran 2024-10-07 212302](https://github.com/user-attachments/assets/174d46ad-5168-4521-bae0-c9a882346fa9)
 # Notification Pour La Date D'expiration Du Produit
-![Capture d'écran 2024-10-07 211037](https://github.com/user-attachments/assets/50def884-aa51-4875-b3ff-0968ec7c4593)
+![Capture d'écran 2024-10-07 215401](https://github.com/user-attachments/assets/1200ba35-6f82-4137-8f82-25c82cf8946c)
 # Gestion des Employes
 ![Capture d'écran 2024-10-07 205443](https://github.com/user-attachments/assets/0a023875-cd7b-4112-8463-675ca7e3bd2c)
 # ChatBox
