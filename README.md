@@ -9,7 +9,7 @@
 # Statistiques
 ![Capture d'écran 2024-09-22 225243](https://github.com/user-attachments/assets/54a8c048-da42-4e6c-a523-ea1bb8102e54)
 # QR Code pour chaque produit
-![Capture d'écran 2024-10-07 211335](https://github.com/user-attachments/assets/d08561c1-50d9-4f0e-b9ef-4720cb27d605)
+![Capture d'écran 2024-10-07 212302](https://github.com/user-attachments/assets/174d46ad-5168-4521-bae0-c9a882346fa9)
 # Notification Pour La Date D'expiration Du Produit
 ![Capture d'écran 2024-10-07 211037](https://github.com/user-attachments/assets/50def884-aa51-4875-b3ff-0968ec7c4593)
 # Gestion des Employes
